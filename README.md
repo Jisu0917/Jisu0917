@@ -1,11 +1,8 @@
-<h2 align="left">Hi 👋! My name is Jisu.<br>I'm a Bachelor of ✨IT Engineering Department (👑AI Engineering Department) from ❄Sookmyung Women's University.</h2>
+<h2 align="left">Hi 👋! My name is Jisu.</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jisu0917&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jisu0917&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">I'm a Bachelor of ✨IT Engineering Department<br>(👑AI Engineering Department) <br>from ❄Sookmyung Women's University.</h3>
 
 ###
 
@@ -74,10 +71,25 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Jisu0917&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jisu0917&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Jisu0917/Jisu0917/output/snake.svg" alt="Snake animation" />
+
+###
+
 <img align="right" height="150" src="https://i.imgur.com/bH2vwiv.gif"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/Jisu0917/Jisu0917/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Jisu0917&theme=default" alt="Layout with last medium posts"  />
+</div>
 
 ###
