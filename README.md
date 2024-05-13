@@ -78,18 +78,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Jisu0917/Jisu0917/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" height="150" src="https://i.imgur.com/bH2vwiv.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Jisu0917&theme=default" alt="Layout with last medium posts"  />
-</div>
+<img src="https://raw.githubusercontent.com/Jisu0917/Jisu0917/output/snake.svg" alt="Snake animation" />
 
 ###
