@@ -77,11 +77,3 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgur.com/bH2vwiv.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Jisu0917/Jisu0917/output/snake.svg" alt="Snake animation" />
-
-###
