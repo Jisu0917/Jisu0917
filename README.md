@@ -56,7 +56,7 @@
 
 <div align="left">
   <a href="https://blingbunny.notion.site/Bling-Bunny-a78706f50b9741408b775935563ea239?pvs=4" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Notion&logo=notion&label=&logoColor=pink&color=ff6bb8&labelColor=&style=for-the-badge" height="35" alt="notion logo" />
+    <img src="https://img.shields.io/static/v1?message=Notion&logo=notion&label=&logoColor=pink&color=de8ab5&labelColor=&style=for-the-badge" height="35" alt="notion logo" />
   </a>
   <a href="https://youtube.com/@bling-bunny?si=HoXeVL0q-imZOv0D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
